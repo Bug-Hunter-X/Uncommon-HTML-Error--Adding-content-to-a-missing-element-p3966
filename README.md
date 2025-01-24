@@ -1,0 +1,1 @@
+This example demonstrates a subtle error in HTML that can lead to unexpected behavior. The script attempts to add content to a div element ('myDiv') which might not exist.  This will throw an error in some browsers or produce unexpected results in others.  The solution shows how to correctly add content after verifying if the element exists.
